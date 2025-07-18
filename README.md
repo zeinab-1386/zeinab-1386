@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Zeinab 👩‍💻
 
-<!--
-**zeinab-1386/zeinab-1386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Full-stack Web Developer based in Mashhad, Iran — passionate about building responsive, modern, and user-focused web applications.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, Node.js
+- UI Design: Figma
+- Learning: React, modern JavaScript tools & frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I care about:
+- Clean, maintainable code
+- Fully responsive and mobile-first design
+- Staying up-to-date with the latest technologies
+
+🎯 Currently exploring React and improving my skills in scalable backend development with Node.js.
+
+📫 Let's connect!
+zizi.golo.1386.zeinab@gmail.com
