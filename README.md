@@ -56,6 +56,4 @@
   <a href="https://t.me/z_gh_developer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
----
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
