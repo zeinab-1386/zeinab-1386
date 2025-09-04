@@ -39,15 +39,6 @@
 
 ---
 
-## 📌 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Portfolio Website](#)** | Personal responsive portfolio with animations and dark/light mode | HTML, CSS, JavaScript |
-| **[Product Page](#)** | E-commerce product page with filters and tags | HTML, CSS, JS |
-| **[Image Slider](#)** | Custom responsive image slider | HTML, CSS, JS |
-
----
-
 ## 📫 Let's connect!
 
 <p>
